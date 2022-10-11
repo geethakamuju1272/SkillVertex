@@ -1,0 +1,257 @@
+[
+  {
+    "filter_id": 1,
+    "filter_name": "All categories",
+    "products": [
+      {
+        "id": 15,
+        "name": "sent Bottle",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹590",
+        "imgSrc": "images/perfume3.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Rino Gaetano",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹400",
+        "imgSrc": "images/s1.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Kids",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹1500",
+        "imgSrc": "images/KIDS.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Headache pills",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹700",
+        "imgSrc": "images/M1.jpeg"
+      },
+      {
+        "id": 1,
+        "name": "Frontend Angular",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹500",
+        "imgSrc": "images/BOOK1.webp"
+      },
+      {
+        "id": 6,
+        "name": "Rino Gaetano",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹400",
+        "imgSrc": "images/s2.jpeg"
+      },
+      {
+        "id": 7,
+        "name": "Headache pills",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹890",
+        "imgSrc": "images/M3.jpeg"
+      },
+      {
+        "id": 8,
+        "name": "Armani Bottle",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹699",
+        "imgSrc": "images/perfume2.jpeg"
+      },
+      {
+        "id": 13,
+        "name": "Men",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹2000",
+        "imgSrc": "images/MEN.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Rino Gaetano",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹400",
+        "imgSrc": "images/s3.jpeg"
+      },
+      {
+        "id": 11,
+        "name": "Women",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹1800",
+        "imgSrc": "images/WOMEN.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Noir Bottle",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹390",
+        "imgSrc": "images/perfume1.jpeg"
+      },
+      
+      {
+        "id": 9,
+        "name": "D&G Bottle",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹400",
+        "imgSrc": "images/b1.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "D&G Bottle",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹400",
+        "imgSrc": "images/B2.jpeg"
+      },
+     
+      {
+        "id": 16,
+        "name": "Headache pills",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹350",
+        "imgSrc": "images/M2.jpeg"
+      }
+    ]
+  },
+
+  {
+    "filter_id": 2,
+    "filter_name": "Book",
+    "products": [
+      {
+        "id": 19,
+        "name": "Frontend Angular",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹500",
+        "imgSrc": "images/BOOK1.webp"
+      },
+
+      {
+        "id": 20,
+        "name": "D&G Bottle",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹400",
+        "imgSrc": "images/b1.jpeg"
+      },
+      {
+        "id": 34,
+        "name": "D&G Bottle",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹400",
+        "imgSrc": "images/B2.jpeg"
+      }
+    ]
+  },
+
+  {
+    "filter_id": 3,
+    "filter_name": "Music",
+    "products": [
+      {
+        "id": 21,
+        "name": "Rino Gaetano",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹400",
+        "imgSrc": "images/s1.jpeg"
+      },
+      {
+        "id": 29,
+        "name": "Rino Gaetano",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹400",
+        "imgSrc": "images/s2.jpeg"
+      },
+      {
+        "id": 46,
+        "name": "Rino Gaetano",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹400",
+        "imgSrc": "images/s3.jpeg"
+      }
+    ]
+  },
+  {
+    "filter_id": 4,
+    "filter_name": "Outfits",
+    "products": [
+      {
+        "id": 22,
+        "name": "Kids",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹1500",
+        "imgSrc": "images/KIDS.jpg"
+      },
+      {
+        "id": 27,
+        "name": "Women",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹1800",
+        "imgSrc": "images/WOMEN.jpg"
+      },
+
+      {
+        "id": 23,
+        "name": "Men",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹2000",
+        "imgSrc": "images/MEN.jpg"
+      }
+    ]
+  },
+
+  {
+    "filter_id": 5,
+    "filter_name": "Perfume",
+    "products": [
+      {
+        "id": 24,
+        "name": "Noir Bottle",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹390",
+        "imgSrc": "images/perfume1.jpeg"
+      },
+
+      {
+        "id": 25,
+        "name": "Armani Bottle",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹699",
+        "imgSrc": "images/perfume2.jpeg"
+      },
+      {
+        "id": 31,
+        "name": "sent Bottle",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹590",
+        "imgSrc": "images/perfume3.jpeg"
+      }
+    ]
+  },
+
+  {
+    "filter_id": 6,
+    "filter_name": "Medical",
+    "products": [
+      {
+        "id": 26,
+        "name": "Headache pills",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹700",
+        "imgSrc": "images/M1.jpeg"
+      },
+      {
+        "id": 28,
+        "name": "Headache pills",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹350",
+        "imgSrc": "images/M2.jpeg"
+      },
+      {
+        "id": 30,
+        "name": "Headache pills",
+        "detail": "There are many variations of passages of Lorem Ipsum avaable, b majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. make an ami jani na.",
+        "price": "₹890",
+        "imgSrc": "images/M3.jpeg"
+      }
+    ]
+  }
+]
